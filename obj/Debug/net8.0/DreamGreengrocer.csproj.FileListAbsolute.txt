@@ -1,0 +1,14 @@
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/bin/Debug/net8.0/DreamGreengrocer
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/bin/Debug/net8.0/DreamGreengrocer.deps.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/bin/Debug/net8.0/DreamGreengrocer.runtimeconfig.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/bin/Debug/net8.0/DreamGreengrocer.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/bin/Debug/net8.0/DreamGreengrocer.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/obj/Debug/net8.0/DreamGreengrocer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/obj/Debug/net8.0/DreamGreengrocer.AssemblyInfoInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/obj/Debug/net8.0/DreamGreengrocer.AssemblyInfo.cs
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/obj/Debug/net8.0/DreamGreengrocer.csproj.CoreCompileInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/obj/Debug/net8.0/DreamGreengrocer.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/obj/Debug/net8.0/refint/DreamGreengrocer.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/obj/Debug/net8.0/DreamGreengrocer.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/obj/Debug/net8.0/DreamGreengrocer.genruntimeconfig.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/DreamGreengrocer/obj/Debug/net8.0/ref/DreamGreengrocer.dll
